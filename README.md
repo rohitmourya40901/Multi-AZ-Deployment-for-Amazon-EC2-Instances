@@ -30,12 +30,11 @@ Follow these steps to deploy the EC2 instance to multi-AZ :
 
 The architecture of this project involves strategically deploying Amazon EC2 instances across multiple Availability Zones within a specified region, utilizing a load balancer for distributing incoming traffic. This diagram illustrates the high-level architecture:
 
-![Multi-AZ Deployment Architecture](./docs/architecture.png)
+(![alt text](multi-tier-architecture.png))
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Make sure to follow the [contribution guidelines](CONTRIBUTING.md).
-
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. 
 
 ## Acknowledgments
 
